@@ -8,5 +8,5 @@ authors = [{ name = "Alpic" }]
 keywords = ["mcp", "llm", "alpic", "python"]
 dependencies = [
     "black>=25.1.0",
-    "mcp",
+    "fastmcp==2.13.0",
 ]

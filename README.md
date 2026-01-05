@@ -104,6 +104,7 @@ async def your_prompt(
 ) -> str:
     """Generate a helpful prompt"""
 
+
     return f"You are a friendly assistant, help the user and don't forget to {prompt_param}."
 
 ```
